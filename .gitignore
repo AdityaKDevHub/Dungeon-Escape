@@ -1,0 +1,31 @@
+# Unity Generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+Game_Burst_Debug Info/
+
+# VS Code Cache
+.vscode/
+
+# IDE files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Builds
+*.apk
+*.exe
+*.app
+*.zip
