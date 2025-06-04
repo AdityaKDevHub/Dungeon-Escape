@@ -12,7 +12,7 @@
 This game represents an original concept and development effort, using those assets as a base.
 
 > ## Releases
-> The ```.apk``` file of the video game is attached to the Releases page of this repository.
+> The ```.apk``` file of the video game is attached to the Releases page of this repository. Install the ```.apk``` file of the latest version.
 
 Thank You! \
 **Aditya VN Kadiyala**
