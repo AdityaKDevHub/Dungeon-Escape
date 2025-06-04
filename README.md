@@ -5,7 +5,7 @@
 > The only sign of civilization in the depths of gloom is a merchant, who becomes vital because he possesses the Key To Castle - the player's only glimmer of hope. Alas! Nothing in this world is free of cost, not even when you are being hunted.
 
 > ## Citation
-> Some of the assets used in this project originate from GameDevHQ titled:
+> Some of the assets used in this project originate from GameDevHQ's course titled:
 **"The Ultimate Guide to 2D Mobile Game Development with Unity."**
 >
 > However, the gameplay and mechanics of this video game are fundamentally different from the original course project. \
